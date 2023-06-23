@@ -1,4 +1,10 @@
-cs50
-Flask
-Flask-Session
-requests
+cs50==9.2.5
+Flask==2.3.2
+Flask-Session==0.5.0
+requests==2.31.0
+waitress==2.1.2
+Werkzeug==2.3.6
+datetime==5.1
+pytz==2023.3
+uuid==1.30
+

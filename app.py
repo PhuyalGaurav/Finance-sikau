@@ -314,6 +314,4 @@ def sell():
 
         # redirect to index page
         return redirect("/")
-if __name__ == '__main__':
-    app.run()
 

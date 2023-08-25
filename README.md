@@ -15,5 +15,5 @@ This is a simple flask application for trading stocks.
 
   ## How to contribute
 
-  *Just dont. You probably got better things to do*
-  *** but if you really want to you can contribute like normal. ***
+  **Just dont. You probably got better things to do**
+  ***but if you really want to you can contribute like normal.***

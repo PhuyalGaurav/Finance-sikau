@@ -1,6 +1,6 @@
 ﻿# Finance-sikau
  
-This is a simple flask application for trading stocks.
+This is a simple flask application for learning about trading stocks.
 
 ## Pre-Requisites:
 - Python
